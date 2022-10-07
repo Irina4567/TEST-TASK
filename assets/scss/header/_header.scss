@@ -6,26 +6,26 @@
 header {
     .header-desctop {
         display: block;
-        @media #{$sm-device} {
+        @media #{$md-device} {
             display: none;
         }
     }
 
     .header-mobile {
         display: none;
-        @media #{$sm-device} {
+        @media #{$md-device} {
             display: block;
         }
     }
 
     .header-logo-wrapper {
-        @media #{$sm-device} {
+        @media #{$md-device} {
             margin-right: auto;
         }
     }
 
     .header-action-wrapper {
-        @media #{$sm-device} {
+        @media #{$md-device} {
             flex: inherit;
         }
     }
