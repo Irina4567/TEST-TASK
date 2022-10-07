@@ -34,8 +34,7 @@
     <link href="assets/css/aos.min.css" rel="stylesheet" />
 
     <!--== Main Style CSS ==-->
-    <!-- <link href="assets/css/style.css" rel="stylesheet" /> -->
-    <link href="assets/scss/style.css" rel="stylesheet" />
+    <link href="assets/css/style.css" rel="stylesheet" />
 
     <!--[if lt IE 9]>
     <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -865,7 +864,6 @@
                                         </div>
                                         <!--== End Shop Item ==-->
                                     </div>
-
                                 </div>
 
                                 <!--== Add Swiper navigation Buttons ==-->
